@@ -1,6 +1,5 @@
 package Entidades;
 
-import Entidades.Pessoa;
 
 import java.util.LinkedList;
 
