@@ -4,7 +4,7 @@ package Entidades;
 import java.util.LinkedList;
 
 public class PilhaDePessoas {
-    private LinkedList<Pessoa> listaDePessoas;
+    public LinkedList<Pessoa> listaDePessoas;
 
     public PilhaDePessoas() {
         listaDePessoas = new LinkedList<>();
