@@ -1,3 +1,8 @@
+package Aplicacao;
+
+import Entidades.Pessoa;
+import Entidades.PilhaDePessoas;
+
 public class Main {
     public static void main(String[] args){
         PilhaDePessoas pilha = new PilhaDePessoas();
